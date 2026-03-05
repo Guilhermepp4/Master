@@ -58,4 +58,4 @@
 
 | Bachelor |
 | --- |
-| [Projects](https://github.com/Guilhermepp4/University/blob/main/README.md) |
+| [Projects](https://github.com/Guilhermepp4/Bachelor/tree/main) |
