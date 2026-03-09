@@ -52,7 +52,7 @@
 | Scripting para Processamento de Linguagem Natural | [TPCs](https://github.com/Guilhermepp4/SPLN2026) | [Projeto] |
 | Projeto em Engenharia de Linguagens | [Projeto](https://github.com/Guilhermepp4/Proj_EL) | - |
 | Sistemas de Extração, Transformação e Carregamento de Dados | [Exercícios] | [Projetos] |
-| Extração de Conhecimento em Data Warehouses) | [Exercícios] | [Projetos] |
+| Extração de Conhecimento em Data Warehouses | [Exercícios] | [Projetos] |
 | Projeto em Sistemas de Data Warehousing | [Exercícios] | [Projetos] | 
 
 | Bachelor |
