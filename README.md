@@ -49,7 +49,7 @@
 | 1<sup>st</sup> Year - 2<sup>nd</sup> Semester | Exercises | Projects |
 | --- | :---: | :---: |
 | Representação e Processamento de Conhecimento na Web  | [TPCs](https://github.com/Guilhermepp4/RPCW2026) | [Projeto] |
-| Scripting para Processamento de Linguagem Natural | [TPCs](https://github.com/Guilhermepp4/SPLN2026/TPCs) | [Projeto](https://github.com/Guilhermepp4/SPLN2026/Projetos) |
+| Scripting para Processamento de Linguagem Natural | [TPCs](https://github.com/Guilhermepp4/SPLN2026/tree/main/TPCs) | [Projeto](https://github.com/Guilhermepp4/SPLN2026/tree/main/Projetos) |
 | Projeto em Engenharia de Linguagens | - | [Projeto](https://github.com/Guilhermepp4/Proj_EL) |
 | Sistemas de Extração, Transformação e Carregamento de Dados | [Exercícios] | [Projetos] |
 | Extração de Conhecimento em Data Warehouses | [Exercícios] | [Projetos] |
