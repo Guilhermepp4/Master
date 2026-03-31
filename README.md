@@ -51,9 +51,9 @@
 | Representação e Processamento de Conhecimento na Web  | [TPCs](https://github.com/Guilhermepp4/RPCW2026) | [Projeto] |
 | Scripting para Processamento de Linguagem Natural | [TPCs](https://github.com/Guilhermepp4/SPLN2026/tree/main/TPCs) | [Projetos](https://github.com/Guilhermepp4/SPLN2026/tree/main/Projetos) |
 | Projeto em Engenharia de Linguagens | - | [Projeto](https://github.com/Guilhermepp4/Proj_EL) |
-| Sistemas de Extração, Transformação e Carregamento de Dados | - | [Projetos] |
-| Extração de Conhecimento em Data Warehouses | - | [Projetos] |
-| Projeto em Sistemas de Data Warehousing | - | [Projetos] | 
+| Sistemas de Extração, Transformação e Carregamento de Dados | - | [Projetos](https://github.com/Guilhermepp4/SETCD) |
+| Extração de Conhecimento em Data Warehouses | - | [Projetos](https://github.com/Guilhermepp4/ECAD) |
+| Projeto em Sistemas de Data Warehousing | - | [Projetos](https://github.com/Guilhermepp4/Proj_DW) | 
 
 | Bachelor |
 | --- |
